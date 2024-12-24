@@ -1,0 +1,5 @@
+Word Count Report
+Total Words: 2
+Top 5 Words:
+hello - 1
+world - 1
